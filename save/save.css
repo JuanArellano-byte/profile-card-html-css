@@ -1,0 +1,78 @@
+h1{
+    color: goldenrod;
+    font-family: sans-serif;
+}
+
+
+.Email{
+    color: goldenrod;
+    text-decoration: underline;
+    font-family:Montserrat ;
+    background-color: whitesmoke;
+    margin-right: 84%;
+    padding: 8px;
+}
+
+
+@font-face {
+    font-family:Montserrat ;
+    src: url(static/Montserrat-Italic.ttf) format(truetype)
+}
+h2{
+    font-size: larger;
+    margin-top: 3%;
+    font-family: sans-serif;
+}
+
+.h2{
+    padding: 10px;
+
+}
+.p2{
+    font-weight: 700;
+    font-family: Montserrat;
+}
+
+.h3{
+    margin-top: 3%;
+    padding: 10px;
+
+}
+
+.p3{
+    background-color:whitesmoke ;
+    color: goldenrod;
+    font-size: large;
+    margin-right: 90%;
+    padding: 10px;
+}
+
+button{
+background-color: whitesmoke;
+padding: 15px;
+margin: 10px;
+font-weight: 700;
+font-family: Montserrat;
+color: goldenrod;
+}
+
+img{
+    border-radius: 100%;
+    width: 300px;
+    float: left;
+    height: 300px;
+    margin-top: -30%;
+    margin-left: 40%;
+    
+    
+}
+
+.name{
+    background-color: whitesmoke;
+    margin-right: 90%;
+    font-family: Montserrat;
+    color: goldenrod;
+    
+
+}
+
